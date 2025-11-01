@@ -1,0 +1,430 @@
+2025-08-08 01:28:36 [[31merror[39m]: 	Registration error: Failed to send email. Missing credentials for "PLAIN"
+2025-08-08 01:28:36 [[31merror[39m]: 	Registration failed: Failed to send email. Missing credentials for "PLAIN"
+2025-08-09 01:41:13 [[31merror[39m]: 	Complete registration error: AppError is not defined
+2025-08-09 01:41:13 [[31merror[39m]: 	Complete registration failed: AppError is not defined
+2025-08-09 01:42:28 [[31merror[39m]: 	Complete registration error: AppError is not defined
+2025-08-09 01:42:28 [[31merror[39m]: 	Complete registration failed: AppError is not defined
+2025-08-09 01:59:10 [[31merror[39m]: 	Complete registration error: User validation failed: username: Username is required
+2025-08-09 01:59:10 [[31merror[39m]: 	Complete registration failed: User validation failed: username: Username is required
+2025-08-09 02:10:42 [[31merror[39m]: 	Complete registration error: User validation failed: username: Username is required
+2025-08-09 02:10:42 [[31merror[39m]: 	Complete registration failed: User validation failed: username: Username is required
+2025-08-09 02:24:29 [[31merror[39m]: 	Complete registration error: User validation failed: username: Username is required
+2025-08-09 02:24:29 [[31merror[39m]: 	Complete registration failed: User validation failed: username: Username is required
+2025-08-09 02:33:14 [[31merror[39m]: 	Registration error: name is not defined
+2025-08-09 02:33:14 [[31merror[39m]: 	Registration failed: name is not defined
+2025-08-09 02:38:03 [[31merror[39m]: 	Complete registration error: redisKey is not defined
+2025-08-09 02:38:03 [[31merror[39m]: 	Complete registration failed: redisKey is not defined
+2025-08-09 02:42:43 [[31merror[39m]: 	Registration error: AppError is not defined
+2025-08-09 02:42:43 [[31merror[39m]: 	Registration failed: AppError is not defined
+2025-08-09 02:59:54 [[31merror[39m]: 	Login error: AppError is not defined
+2025-08-09 02:59:54 [[31merror[39m]: 	Login failed: AppError is not defined
+2025-08-09 04:00:35 [[31merror[39m]: 	Login error: error is not defined
+2025-08-09 04:00:35 [[31merror[39m]: 	Login failed: error is not defined
+2025-08-09 04:11:57 [[31merror[39m]: 	Login failed: response is not a function
+2025-08-09 04:14:23 [[31merror[39m]: 	Login failed: res is not a function
+2025-08-10 00:34:07 [[31merror[39m]: 	Token refresh failed: Cannot read properties of undefined (reading 'jwt')
+2025-08-10 00:34:27 [[31merror[39m]: 	Token refresh failed: Cannot read properties of undefined (reading 'jwt')
+2025-08-10 00:34:33 [[31merror[39m]: 	Token refresh failed: Cannot read properties of undefined (reading 'jwt')
+2025-08-10 00:38:18 [[31merror[39m]: 	Token refresh failed: Cannot read properties of undefined (reading 'jwt')
+2025-08-10 02:43:47 [[31merror[39m]: 	Authentication error: invalid signature
+2025-08-10 02:52:42 [[31merror[39m]: 	Authentication error: invalid signature
+2025-08-10 02:53:09 [[31merror[39m]: 	Authentication error: invalid signature
+2025-08-10 02:53:34 [[31merror[39m]: 	Authentication error: invalid signature
+2025-08-10 02:56:46 [[31merror[39m]: 	Authentication error: invalid signature
+2025-08-10 03:08:19 [[31merror[39m]: 	Authentication error: invalid signature
+2025-08-10 03:59:39 [[31merror[39m]: 	JWT verification failed: invalid signature
+2025-08-10 03:59:39 [[31merror[39m]: 	Authentication error: Cannot read properties of null (reading 'id')
+2025-08-11 04:16:42 [[31merror[39m]: 	JWT verification failed: invalid signature
+2025-08-11 04:16:42 [[31merror[39m]: 	Authentication error: Cannot read properties of null (reading 'id')
+2025-08-11 04:26:15 [[31merror[39m]: 	JWT verification failed: invalid signature
+2025-08-11 04:26:15 [[31merror[39m]: 	Authentication error: Cannot read properties of null (reading 'id')
+2025-08-11 04:34:50 [[31merror[39m]: 	JWT verification failed: invalid signature
+2025-08-11 04:34:50 [[31merror[39m]: 	Authentication error: Cannot read properties of null (reading 'id')
+2025-08-11 04:36:11 [[31merror[39m]: 	JWT verification failed: invalid signature
+2025-08-11 04:36:11 [[31merror[39m]: 	Authentication error: Cannot read properties of null (reading 'id')
+2025-08-11 04:36:39 [[31merror[39m]: 	Authentication error: currentUser.changedPasswordAfter is not a function
+2025-08-11 05:41:13 [[31merror[39m]: 	JWT verification failed: invalid signature
+2025-08-11 05:41:13 [[31merror[39m]: 	Authentication error: Cannot read properties of null (reading 'id')
+2025-08-11 05:48:39 [[31merror[39m]: 	Server error: SyntaxError: Expected ',' or '}' after property value in JSON at position 60 (line 4 column 1)
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\User\..Github\Chat-app-v2.2\server\node_modules\body-parser\lib\types\json.js:92:19)
+    at C:\Users\User\..Github\Chat-app-v2.2\server\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:211:14)
+    at invokeCallback (C:\Users\User\..Github\Chat-app-v2.2\server\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\User\..Github\Chat-app-v2.2\server\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\User\..Github\Chat-app-v2.2\server\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:518:28)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2025-08-13 00:52:46 [[31merror[39m]: 	Registration error: AppError is not defined
+2025-08-13 00:52:46 [[31merror[39m]: 	Registration failed: AppError is not defined
+2025-08-13 01:04:08 [[31merror[39m]: 	Registration failed: Invalid status code: <ref *1> ServerResponse {
+  _events: [Object: null prototype],
+  _eventsCount: 2,
+  _maxListeners: undefined,
+  outputData: [],
+  outputSize: 0,
+  writable: true,
+  destroyed: false,
+  _last: false,
+  chunkedEncoding: false,
+  shouldKeepAlive: true,
+  maxRequestsOnConnectionReached: false,
+  _defaultKeepAlive: true,
+  useChunkedEncodingByDefault: true,
+  sendDate: true,
+  _removedConnection: false,
+  _removedContLen: false,
+  _removedTE: false,
+  strictContentLength: false,
+  _contentLength: 128,
+  _hasBody: true,
+  _trailer: '',
+  finished: false,
+  _headerSent: false,
+  _closed: false,
+  _header: null,
+  _keepAliveTimeout: 5000,
+  _onPendingData: [Function: bound updateOutgoingData],
+  req: [IncomingMessage],
+  _sent100: false,
+  _expect_continue: false,
+  _maxRequestsPerSocket: 0,
+  locals: [Object: null prototype] {},
+  _startAt: [Array],
+  _startTime: 2025-08-12T21:04:08.515Z,
+  writeHead: [Function: writeHead],
+  __onFinished: [Function],
+  statusCode: [Circular *1],
+  [Symbol(shapeMode)]: false,
+  [Symbol(kCapture)]: false,
+  [Symbol(kBytesWritten)]: 0,
+  [Symbol(kNeedDrain)]: false,
+  [Symbol(corked)]: 0,
+  [Symbol(kChunkedBuffer)]: [],
+  [Symbol(kChunkedLength)]: 0,
+  [Symbol(kSocket)]: [Socket],
+  [Symbol(kOutHeaders)]: [Object: null prototype],
+  [Symbol(errored)]: null,
+  [Symbol(kHighWaterMark)]: 16384,
+  [Symbol(kRejectNonStandardBodyWrites)]: false,
+  [Symbol(kUniqueHeaders)]: null
+}
+2025-08-13 01:51:11 [[31merror[39m]: 	Complete registration error: AppError is not defined
+2025-08-13 01:51:11 [[31merror[39m]: 	Complete registration failed: AppError is not defined
+2025-08-13 01:58:43 [[31merror[39m]: 	Registration error: AppError is not defined
+2025-08-13 01:58:43 [[31merror[39m]: 	Registration failed: AppError is not defined
+2025-08-13 01:58:54 [[31merror[39m]: 	Registration error: AppError is not defined
+2025-08-13 01:58:54 [[31merror[39m]: 	Registration failed: AppError is not defined
+2025-08-13 01:59:44 [[31merror[39m]: 	Complete registration error: AppError is not defined
+2025-08-13 01:59:44 [[31merror[39m]: 	Complete registration failed: AppError is not defined
+2025-08-13 02:17:39 [[31merror[39m]: 	Registration error: AppError is not defined
+2025-08-13 02:17:39 [[31merror[39m]: 	Registration failed: AppError is not defined
+2025-08-13 02:17:49 [[31merror[39m]: 	Registration error: AppError is not defined
+2025-08-13 02:17:49 [[31merror[39m]: 	Registration failed: AppError is not defined
+2025-08-13 02:18:26 [[31merror[39m]: 	Complete registration error: AppError is not defined
+2025-08-13 02:18:26 [[31merror[39m]: 	Complete registration failed: AppError is not defined
+2025-08-13 23:55:22 [[31merror[39m]: 	Reset password error: Cannot destructure property 'token' of 'data' as it is undefined.
+2025-08-13 23:55:22 [[31merror[39m]: 	Reset password failed: Cannot destructure property 'token' of 'data' as it is undefined.
+2025-08-14 21:28:33 [[31merror[39m]: 	Reset password error: Cannot destructure property 'token' of 'data' as it is undefined.
+2025-08-14 21:28:33 [[31merror[39m]: 	Reset password failed: Cannot destructure property 'token' of 'data' as it is undefined.
+2025-08-14 21:50:10 [[31merror[39m]: 	Reset password error: Cannot destructure property 'token' of 'data' as it is undefined.
+2025-08-14 21:55:50 [[31merror[39m]: 	Reset password error: Cannot destructure property 'token' of 'data' as it is undefined.
+2025-08-14 21:55:50 [[31merror[39m]: 	Reset password failed: Cannot destructure property 'token' of 'data' as it is undefined.
+2025-08-14 22:51:26 [[31merror[39m]: 	Reset password error: Cannot destructure property 'token' of 'data' as it is undefined.
+2025-08-14 22:51:26 [[31merror[39m]: 	Reset password failed: Cannot destructure property 'token' of 'data' as it is undefined.
+2025-08-14 23:32:29 [[31merror[39m]: 	Reset password error: Cannot destructure property 'token' of 'data' as it is undefined.
+2025-08-14 23:32:29 [[31merror[39m]: 	Reset password failed: Cannot destructure property 'token' of 'data' as it is undefined.
+2025-08-14 23:51:28 [[31merror[39m]: 	Reset password error: Cannot destructure property 'token' of 'data' as it is undefined.
+2025-08-14 23:51:28 [[31merror[39m]: 	Reset password failed: Cannot destructure property 'token' of 'data' as it is undefined.
+2025-08-15 00:22:44 [[31merror[39m]: 	Reset password error: Cannot destructure property 'token' of 'data' as it is undefined.
+2025-08-15 00:22:44 [[31merror[39m]: 	Reset password failed: Cannot destructure property 'token' of 'data' as it is undefined.
+2025-08-15 00:36:43 [[31merror[39m]: 	Reset password error: Cannot destructure property 'token' of 'data' as it is undefined.
+2025-08-15 00:36:43 [[31merror[39m]: 	Reset password failed: Cannot destructure property 'token' of 'data' as it is undefined.
+2025-08-16 01:25:11 [[31merror[39m]: 	Reset password error: Cannot destructure property 'token' of 'data' as it is undefined.
+2025-08-16 01:25:11 [[31merror[39m]: 	Reset password failed: Cannot destructure property 'token' of 'data' as it is undefined.
+2025-08-16 01:35:55 [[31merror[39m]: 	Reset password error: Cannot destructure property 'token' of 'data' as it is undefined.
+2025-08-16 01:35:55 [[31merror[39m]: 	Reset password failed: Cannot destructure property 'token' of 'data' as it is undefined.
+2025-08-16 01:48:28 [[31merror[39m]: 	Reset password error: Cannot destructure property 'token' of 'data' as it is undefined.
+2025-08-16 01:48:28 [[31merror[39m]: 	Reset password failed: Cannot destructure property 'token' of 'data' as it is undefined.
+2025-08-16 01:54:05 [[31merror[39m]: 	Reset password error: Cannot destructure property 'token' of 'data' as it is undefined.
+2025-08-16 01:54:05 [[31merror[39m]: 	Reset password failed: Cannot destructure property 'token' of 'data' as it is undefined.
+2025-08-16 23:41:27 [[31merror[39m]: 	Reset password error: Cannot destructure property 'token' of 'data' as it is undefined.
+2025-08-16 23:41:27 [[31merror[39m]: 	Reset password failed: Cannot destructure property 'token' of 'data' as it is undefined.
+2025-08-16 23:59:57 [[31merror[39m]: 	Reset password error: Cannot destructure property 'token' of 'data' as it is undefined.
+2025-08-16 23:59:57 [[31merror[39m]: 	Reset password failed: Cannot destructure property 'token' of 'data' as it is undefined.
+2025-08-17 00:11:05 [[31merror[39m]: 	Reset password error: Cannot destructure property 'token' of 'data' as it is undefined.
+2025-08-17 00:11:05 [[31merror[39m]: 	Reset password failed: Cannot destructure property 'token' of 'data' as it is undefined.
+2025-08-17 00:47:05 [[31merror[39m]: 	JWT verification failed: jwt must be provided
+2025-08-17 00:47:05 [[31merror[39m]: 	Reset password error: AppError is not defined
+2025-08-17 00:47:05 [[31merror[39m]: 	Reset password failed: AppError is not defined
+2025-08-17 00:57:17 [[31merror[39m]: 	JWT verification failed: invalid token
+2025-08-17 00:57:17 [[31merror[39m]: 	Reset password error: AppError is not defined
+2025-08-17 00:57:17 [[31merror[39m]: 	Reset password failed: AppError is not defined
+2025-08-17 01:06:06 [[31merror[39m]: 	JWT verification failed: invalid token
+2025-08-17 01:06:06 [[31merror[39m]: 	Reset password error: AppError is not defined
+2025-08-17 01:06:06 [[31merror[39m]: 	Reset password failed: AppError is not defined
+2025-08-17 01:47:07 [[31merror[39m]: 	JWT verification failed: invalid token
+2025-08-17 01:47:07 [[31merror[39m]: 	Reset password error: AppError is not defined
+2025-08-17 01:47:07 [[31merror[39m]: 	Reset password failed: AppError is not defined
+2025-08-18 04:40:40 [[31merror[39m]: 	Login error: secretOrPrivateKey must have a value
+2025-08-18 04:40:40 [[31merror[39m]: 	Login failed: secretOrPrivateKey must have a value
+2025-08-19 04:56:06 [[31merror[39m]: 	Update user error: Validation failed: email: Email is required
+2025-08-19 04:56:06 [[31merror[39m]: 	Update profile failed: Validation failed: email: Email is required
+2025-08-19 04:56:10 [[31merror[39m]: 	Update user error: Validation failed: email: Email is required
+2025-08-19 04:56:10 [[31merror[39m]: 	Update profile failed: Validation failed: email: Email is required
+2025-08-19 05:55:09 [[31merror[39m]: 	Update user error: Validation failed: email: Email is required
+2025-08-19 05:55:09 [[31merror[39m]: 	Update profile failed: Validation failed: email: Email is required
+2025-08-19 06:08:38 [[31merror[39m]: 	Update user error: Validation failed: email: Email is required
+2025-08-19 06:08:38 [[31merror[39m]: 	Update profile failed: Validation failed: email: Email is required
+2025-08-19 06:50:03 [[31merror[39m]: 	Update user error: Validation failed: username: Username must be at least 3 characters
+2025-08-19 06:50:03 [[31merror[39m]: 	Update profile failed: Validation failed: username: Username must be at least 3 characters
+2025-08-19 06:52:18 [[31merror[39m]: 	Update user error: Validation failed: username: Username must be at least 3 characters
+2025-08-19 06:52:18 [[31merror[39m]: 	Update profile failed: Validation failed: username: Username must be at least 3 characters
+2025-08-21 06:02:36 [[31merror[39m]: 	Send friend request error: Cast to ObjectId failed for value "Pap@example.com" (type string) at path "_id" for model "User"
+2025-08-21 06:02:36 [[31merror[39m]: 	Send friend request failed: Cast to ObjectId failed for value "Pap@example.com" (type string) at path "_id" for model "User"
+2025-08-21 06:04:18 [[31merror[39m]: 	Send friend request error: Cast to ObjectId failed for value "Pap@example.com" (type string) at path "_id" for model "User"
+2025-08-21 06:04:18 [[31merror[39m]: 	Send friend request failed: Cast to ObjectId failed for value "Pap@example.com" (type string) at path "_id" for model "User"
+2025-08-21 06:13:40 [[31merror[39m]: 	Send friend request error: AppError is not defined
+2025-08-21 06:13:40 [[31merror[39m]: 	Send friend request failed: AppError is not defined
+2025-08-21 18:39:55 [[31merror[39m]: 	Send friend request error: You cannot send friend request to yourself
+2025-08-21 18:39:55 [[31merror[39m]: 	Send friend request failed: You cannot send friend request to yourself
+2025-08-21 18:41:16 [[31merror[39m]: 	Send friend request error: You cannot send friend request to yourself
+2025-08-21 18:41:16 [[31merror[39m]: 	Send friend request failed: You cannot send friend request to yourself
+2025-08-21 18:43:15 [[31merror[39m]: 	Send friend request error: Friend request already exists
+2025-08-21 18:43:15 [[31merror[39m]: 	Send friend request failed: Friend request already exists
+2025-08-21 19:59:56 [[31merror[39m]: 	Send friend request error: Friend request already exists
+2025-08-21 19:59:56 [[31merror[39m]: 	Send friend request failed: Friend request already exists
+2025-08-22 08:43:27 [[31merror[39m]: 	Send friend request error: Friend request already exists
+2025-08-22 08:43:27 [[31merror[39m]: 	Send friend request failed: Friend request already exists
+2025-08-22 09:55:43 [[31merror[39m]: 	Send friend request error: Friend request already exists
+2025-08-22 09:55:43 [[31merror[39m]: 	Send friend request failed: Friend request already exists
+2025-08-27 11:57:18 [[31merror[39m]: 	Create group error: Group validation failed: name: Group name is required
+2025-08-27 11:57:18 [[31merror[39m]: 	Create group failed: Group validation failed: name: Group name is required
+2025-08-27 11:57:41 [[31merror[39m]: 	Create group error: Group validation failed: name: Group name is required
+2025-08-27 11:57:41 [[31merror[39m]: 	Create group failed: Group validation failed: name: Group name is required
+2025-08-27 12:06:34 [[31merror[39m]: 	Create group failed: message is not defined
+2025-08-27 12:06:40 [[31merror[39m]: 	Create group failed: message is not defined
+2025-08-27 12:38:26 [[31merror[39m]: 	Get user groups failed: GroupService.getUserGroups is not a function
+2025-08-27 12:46:28 [[31merror[39m]: 	Get user groups failed: GroupService.getUserGroups is not a function
+2025-08-30 01:55:13 [[31merror[39m]: 	Send friend request error: Friend request already exists
+2025-08-30 01:55:13 [[31merror[39m]: 	Send friend request failed: Friend request already exists
+2025-08-30 02:02:48 [[31merror[39m]: 	Send friend request error: Friend request already exists
+2025-08-30 02:02:48 [[31merror[39m]: 	Send friend request failed: Friend request already exists
+2025-09-01 17:07:52 [[31merror[39m]: 	Get chat failed: 
+2025-09-01 17:20:37 [[31merror[39m]: 	Get chat failed: ChatService.getChatById is not a function
+2025-09-03 00:40:26 [[31merror[39m]: 	Get messages service error: Cast to ObjectId failed for value "true" (type boolean) at path "_id" for model "Group"
+2025-09-03 00:40:26 [[31merror[39m]: 	Get group chat failed: 
+2025-09-03 00:47:08 [[31merror[39m]: 	Get messages service error: Cast to ObjectId failed for value "true" (type boolean) at path "_id" for model "Group"
+2025-09-03 00:47:08 [[31merror[39m]: 	Get group chat failed: 
+2025-09-03 00:52:44 [[31merror[39m]: 	Get messages service error: Cast to ObjectId failed for value "true" (type boolean) at path "_id" for model "Group"
+2025-09-03 00:52:44 [[31merror[39m]: 	Get group chat failed: 
+2025-09-03 00:57:35 [[31merror[39m]: 	Get messages service error: Cast to ObjectId failed for value "true" (type boolean) at path "_id" for model "Group"
+2025-09-03 00:57:35 [[31merror[39m]: 	Get group chat failed: 
+2025-09-03 01:14:34 [[31merror[39m]: 	Get messages service error: Cast to ObjectId failed for value "true" (type boolean) at path "_id" for model "Group"
+2025-09-03 01:14:34 [[31merror[39m]: 	Get group chat failed: 
+2025-09-03 01:15:20 [[31merror[39m]: 	Get messages service error: Cast to ObjectId failed for value "true" (type boolean) at path "_id" for model "Group"
+2025-09-03 01:15:20 [[31merror[39m]: 	Get group chat failed: 
+2025-09-03 01:21:18 [[31merror[39m]: 	Get messages service error: Cast to ObjectId failed for value "true" (type boolean) at path "_id" for model "Group"
+2025-09-03 01:21:18 [[31merror[39m]: 	Get group chat failed: 
+2025-09-03 01:28:31 [[31merror[39m]: 	Get messages service error: Cast to ObjectId failed for value "true" (type boolean) at path "_id" for model "Group"
+2025-09-03 01:28:31 [[31merror[39m]: 	Get group chat failed: 
+2025-09-03 18:53:42 [[31merror[39m]: 	Get messages service error: Cast to ObjectId failed for value "true" (type boolean) at path "_id" for model "Group"
+2025-09-03 18:53:42 [[31merror[39m]: 	Get group chat failed: 
+2025-09-03 19:01:40 [[31merror[39m]: 	Get group chat failed: 
+2025-09-03 19:15:11 [[31merror[39m]: 	Chat socket error: Cannot read properties of undefined (reading '_id')
+2025-09-03 19:15:24 [[31merror[39m]: 	Chat socket error: Cannot read properties of undefined (reading '_id')
+2025-09-03 20:03:12 [[31merror[39m]: 	Chat socket error: Cannot read properties of undefined (reading '_id')
+2025-09-03 20:30:37 [[31merror[39m]: 	Chat socket error: Cannot read properties of undefined (reading '_id')
+2025-09-03 20:40:55 [[31merror[39m]: 	Chat socket error: Cannot read properties of undefined (reading '_id')
+2025-09-03 21:36:23 [[31merror[39m]: 	Chat socket error: Cannot read properties of undefined (reading '_id')
+2025-09-03 21:52:41 [[31merror[39m]: 	Chat socket error: Cannot read properties of undefined (reading '_id')
+2025-09-03 21:53:27 [[31merror[39m]: 	Chat socket error: Cannot read properties of undefined (reading '_id')
+2025-09-03 21:57:31 [[31merror[39m]: 	Chat socket error: Cannot read properties of undefined (reading '_id')
+2025-09-03 21:58:10 [[31merror[39m]: 	Chat socket error: Cannot read properties of undefined (reading '_id')
+2025-09-04 16:22:49 [[31merror[39m]: 	Chat socket error: Cannot read properties of undefined (reading '_id')
+2025-09-04 16:33:22 [[31merror[39m]: 	Chat socket error: Cannot read properties of undefined (reading '_id')
+2025-09-04 16:35:06 [[31merror[39m]: 	Chat socket error: Cannot read properties of undefined (reading '_id')
+2025-09-04 16:48:19 [[31merror[39m]: 	Chat socket error: Cannot read properties of undefined (reading '_id')
+2025-09-04 18:47:15 [[31merror[39m]: 	Chat socket error: Chat validation failed: type: Path `type` is required.
+2025-09-04 19:02:22 [[31merror[39m]: 	Chat socket error: Message validation failed: chat: Cast to ObjectId failed for value "Promise { <pending> }" (type Promise) at path "chat" because of "BSONError"
+2025-09-04 19:21:30 [[31merror[39m]: 	Chat socket error: Message validation failed: chat: Path `chat` is required.
+2025-09-04 19:22:28 [[31merror[39m]: 	Chat socket error: populatedMessage is not defined
+2025-09-07 20:35:02 [[31merror[39m]: 	Chat socket error: Message validation failed: chat: Path `chat` is required.
+2025-09-07 20:35:32 [[31merror[39m]: 	Chat socket error: Message validation failed: chat: Path `chat` is required.
+2025-09-09 22:47:30 [[31merror[39m]: 	Chat socket error: Message validation failed: chat: Path `chat` is required.
+2025-09-09 22:53:45 [[31merror[39m]: 	Chat socket error: Message validation failed: chat: Path `chat` is required.
+2025-09-10 23:23:38 [[31merror[39m]: 	Chat socket error: Message validation failed: chat: Path `chat` is required.
+2025-09-11 00:42:45 [[31merror[39m]: 	Chat socket error: Message validation failed: chat: Path `chat` is required.
+2025-09-11 00:47:49 [[31merror[39m]: 	Chat socket error: Message validation failed: chat: Path `chat` is required.
+2025-09-11 00:51:57 [[31merror[39m]: 	Chat socket error: Message validation failed: chat: Path `chat` is required.
+2025-09-15 05:40:03 [[31merror[39m]: 	Get unread count service error: Cannot access 'unreadCount' before initialization
+2025-09-15 05:40:03 [[31merror[39m]: 	Get unread count service error: Cannot access 'unreadCount' before initialization
+2025-09-15 05:50:39 [[31merror[39m]: 	Get unread count service error: Cannot access 'unreadCount' before initialization
+2025-09-15 05:50:39 [[31merror[39m]: 	Get unread count service error: Cannot access 'unreadCount' before initialization
+2025-09-15 05:52:01 [[31merror[39m]: 	Get unread count service error: Cannot access 'unreadCount' before initialization
+2025-09-15 05:52:01 [[31merror[39m]: 	Get unread count service error: Cannot access 'unreadCount' before initialization
+2025-09-15 05:53:49 [[31merror[39m]: 	Get unread count service error: Cannot access 'unreadCount' before initialization
+2025-09-15 05:53:49 [[31merror[39m]: 	Get unread count service error: Cannot access 'unreadCount' before initialization
+2025-09-15 05:53:49 [[31merror[39m]: 	Get unread count service error: Cannot access 'unreadCount' before initialization
+2025-09-15 05:53:49 [[31merror[39m]: 	Get unread count service error: Cannot access 'unreadCount' before initialization
+2025-09-15 15:43:21 [[31merror[39m]: 	Get unread count service error: Cannot access 'unreadCount' before initialization
+2025-09-15 15:43:21 [[31merror[39m]: 	Get unread count service error: Cannot access 'unreadCount' before initialization
+2025-09-15 15:43:21 [[31merror[39m]: 	Get unread count service error: Cannot access 'unreadCount' before initialization
+2025-09-15 15:43:21 [[31merror[39m]: 	Get unread count service error: Cannot access 'unreadCount' before initialization
+2025-09-15 15:49:31 [[31merror[39m]: 	Get unread count service error: Cannot access 'unreadCount' before initialization
+2025-09-15 15:49:32 [[31merror[39m]: 	Get unread count service error: Cannot access 'unreadCount' before initialization
+2025-09-15 16:01:12 [[31merror[39m]: 	Get unread count service error: Cannot access 'unreadCount' before initialization
+2025-09-15 16:01:12 [[31merror[39m]: 	Get unread count service error: Cannot access 'unreadCount' before initialization
+2025-09-15 16:01:12 [[31merror[39m]: 	Get unread count service error: Cannot access 'unreadCount' before initialization
+2025-09-15 16:01:12 [[31merror[39m]: 	Get unread count service error: Cannot access 'unreadCount' before initialization
+2025-09-15 16:03:32 [[31merror[39m]: 	Get unread count service error: Cannot access 'unreadCount' before initialization
+2025-09-15 16:03:32 [[31merror[39m]: 	Get unread count service error: Cannot access 'unreadCount' before initialization
+2025-09-15 16:03:32 [[31merror[39m]: 	Get unread count service error: Cannot access 'unreadCount' before initialization
+2025-09-15 16:03:32 [[31merror[39m]: 	Get unread count service error: Cannot access 'unreadCount' before initialization
+2025-09-15 16:04:36 [[31merror[39m]: 	Get unread count service error: Cannot access 'unreadCount' before initialization
+2025-09-15 16:04:36 [[31merror[39m]: 	Get unread count service error: Cannot access 'unreadCount' before initialization
+2025-09-15 16:04:36 [[31merror[39m]: 	Get unread count service error: Cannot access 'unreadCount' before initialization
+2025-09-15 16:04:36 [[31merror[39m]: 	Get unread count service error: Cannot access 'unreadCount' before initialization
+2025-09-15 16:07:50 [[31merror[39m]: 	Get unread count service error: Cannot access 'unreadCount' before initialization
+2025-09-15 16:07:50 [[31merror[39m]: 	Get unread count service error: Cannot access 'unreadCount' before initialization
+2025-09-15 16:07:50 [[31merror[39m]: 	Get unread count service error: Cannot access 'unreadCount' before initialization
+2025-09-15 16:07:50 [[31merror[39m]: 	Get unread count service error: Cannot access 'unreadCount' before initialization
+2025-09-15 16:11:37 [[31merror[39m]: 	Get unread count service error: Cannot access 'unreadCount' before initialization
+2025-09-15 16:11:37 [[31merror[39m]: 	Get unread count service error: Cannot access 'unreadCount' before initialization
+2025-09-15 16:11:37 [[31merror[39m]: 	Get unread count service error: Cannot access 'unreadCount' before initialization
+2025-09-15 16:11:37 [[31merror[39m]: 	Get unread count service error: Cannot access 'unreadCount' before initialization
+2025-09-15 16:14:25 [[31merror[39m]: 	Get unread count service error: Class constructor ObjectId cannot be invoked without 'new'
+2025-09-15 16:14:25 [[31merror[39m]: 	Get unread count service error: Class constructor ObjectId cannot be invoked without 'new'
+2025-09-15 16:14:25 [[31merror[39m]: 	Get unread count service error: Class constructor ObjectId cannot be invoked without 'new'
+2025-09-15 16:14:25 [[31merror[39m]: 	Get unread count service error: Class constructor ObjectId cannot be invoked without 'new'
+2025-09-16 07:10:34 [[31merror[39m]: 	Mark as read failed: Mark messages as read error: Invalid chat type
+2025-09-16 07:14:32 [[31merror[39m]: 	Mark as read failed: Mark messages as read error: Invalid chat type
+2025-09-17 04:02:50 [[31merror[39m]: 	Mark as read failed: Mark messages as read error: Invalid chat type
+2025-09-17 04:09:35 [[31merror[39m]: 	Mark as read failed: Mark messages as read error: Invalid chat type
+2025-09-17 04:18:47 [[31merror[39m]: 	Mark as read failed: Mark messages as read error: Invalid chat type
+2025-09-17 04:20:58 [[31merror[39m]: 	Mark as read failed: Mark messages as read error: Invalid chat type
+2025-09-17 04:26:28 [[31merror[39m]: 	Mark as read failed: Mark messages as read error: Invalid chat type
+2025-09-17 04:31:33 [[31merror[39m]: 	Mark as read failed: Mark messages as read error: Invalid chat type
+2025-09-17 04:32:35 [[31merror[39m]: 	Server error: SyntaxError: Unexpected token '"', ""68969aab0"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (C:\Users\User\..Github\Chat-app-v3\server\node_modules\body-parser\lib\types\json.js:169:10)
+    at parse (C:\Users\User\..Github\Chat-app-v3\server\node_modules\body-parser\lib\types\json.js:86:15)
+    at C:\Users\User\..Github\Chat-app-v3\server\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:211:14)
+    at invokeCallback (C:\Users\User\..Github\Chat-app-v3\server\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\User\..Github\Chat-app-v3\server\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\User\..Github\Chat-app-v3\server\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:518:28)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+2025-09-17 04:41:35 [[31merror[39m]: 	Mark as read failed: Mark messages as read error: 
+2025-09-17 04:49:36 [[31merror[39m]: 	Mark as read failed: Mark messages as read error: 
+2025-09-17 05:05:16 [[31merror[39m]: 	Mark as read failed: Mark messages as read error: 
+2025-09-17 05:14:39 [[31merror[39m]: 	Mark as read failed: Mark messages as read error: 
+2025-09-17 05:35:03 [[31merror[39m]: 	Mark as read failed: Mark messages as read error: 
+2025-09-20 14:10:23 [[31merror[39m]: 	Chat socket error: findPrivateChat is not defined
+2025-09-20 14:10:29 [[31merror[39m]: 	Chat socket error: findPrivateChat is not defined
+2025-09-20 14:10:35 [[31merror[39m]: 	Chat socket error: findPrivateChat is not defined
+2025-09-20 14:16:24 [[31merror[39m]: 	Chat socket error: Cannot populate path `recipient` because it is not in your schema. Set the `strictPopulate` option to false to override.
+2025-09-20 14:16:39 [[31merror[39m]: 	Chat socket error: Cannot populate path `recipient` because it is not in your schema. Set the `strictPopulate` option to false to override.
+2025-09-22 10:48:21 [[31merror[39m]: 	Read receipt error: Cast to ObjectId failed for value "{ messageId: '68d0f1359c2366d140517265' }" (type Object) at path "_id" for model "Message"
+2025-09-23 16:01:49 [[31merror[39m]: 	JWT verification failed: jwt malformed
+2025-09-23 16:01:49 [[31merror[39m]: 	Authentication error: Cannot read properties of null (reading 'id')
+2025-09-23 16:01:49 [[31merror[39m]: 	JWT verification failed: jwt malformed
+2025-09-23 16:01:49 [[31merror[39m]: 	Authentication error: Cannot read properties of null (reading 'id')
+2025-09-23 16:01:55 [[31merror[39m]: 	JWT verification failed: jwt malformed
+2025-09-23 16:01:55 [[31merror[39m]: 	Authentication error: Cannot read properties of null (reading 'id')
+2025-09-23 16:01:55 [[31merror[39m]: 	JWT verification failed: jwt malformed
+2025-09-23 16:01:55 [[31merror[39m]: 	Authentication error: Cannot read properties of null (reading 'id')
+2025-09-23 16:01:58 [[31merror[39m]: 	JWT verification failed: jwt malformed
+2025-09-23 16:01:58 [[31merror[39m]: 	Authentication error: Cannot read properties of null (reading 'id')
+2025-09-23 16:01:58 [[31merror[39m]: 	JWT verification failed: jwt malformed
+2025-09-23 16:01:58 [[31merror[39m]: 	Authentication error: Cannot read properties of null (reading 'id')
+2025-09-29 12:35:22 [[31merror[39m]: 	Add member error: Group validation failed: members.1.role: `Member` is not a valid enum value for path `role`.
+2025-09-29 12:35:22 [[31merror[39m]: 	Add group member failed: Group validation failed: members.1.role: `Member` is not a valid enum value for path `role`.
+2025-10-03 14:51:03 [[31merror[39m]: 	Mark as read failed: Mark messages as read error: 
+2025-10-03 14:51:04 [[31merror[39m]: 	Mark as read failed: Mark messages as read error: 
+2025-10-03 14:51:47 [[31merror[39m]: 	Mark as read failed: Mark messages as read error: 
+2025-10-03 15:00:26 [[31merror[39m]: 	Mark as read failed: Mark messages as read error: 
+2025-10-03 15:01:33 [[31merror[39m]: 	Mark as read failed: Mark messages as read error: 
+2025-10-03 15:19:28 [[31merror[39m]: 	Mark as read failed: Mark messages as read error: 
+2025-10-03 15:29:25 [[31merror[39m]: 	Mark as read failed: Mark messages as read error: 
+2025-10-03 15:31:57 [[31merror[39m]: 	Mark as read failed: Mark messages as read error: 
+2025-10-03 15:34:36 [[31merror[39m]: 	Mark as read failed: Mark messages as read error: 
+2025-10-03 15:45:32 [[31merror[39m]: 	Mark as read failed: Mark messages as read error: 
+2025-10-03 15:45:47 [[31merror[39m]: 	Mark as read failed: Mark messages as read error: 
+2025-10-03 15:45:56 [[31merror[39m]: 	Mark as read failed: Mark messages as read error: 
+2025-10-03 15:45:56 [[31merror[39m]: 	Mark as read failed: Mark messages as read error: 
+2025-10-04 12:02:25 [[31merror[39m]: 	JWT verification failed: jwt malformed
+2025-10-04 12:02:25 [[31merror[39m]: 	Authentication error: Cannot read properties of null (reading 'id')
+2025-10-04 12:02:29 [[31merror[39m]: 	JWT verification failed: jwt malformed
+2025-10-04 12:02:29 [[31merror[39m]: 	Authentication error: Cannot read properties of null (reading 'id')
+2025-10-04 12:07:30 [[31merror[39m]: 	JWT verification failed: jwt malformed
+2025-10-04 12:07:30 [[31merror[39m]: 	Authentication error: Cannot read properties of null (reading 'id')
+2025-10-04 12:07:30 [[31merror[39m]: 	JWT verification failed: jwt malformed
+2025-10-04 12:07:30 [[31merror[39m]: 	Authentication error: Cannot read properties of null (reading 'id')
+2025-10-04 12:10:50 [[31merror[39m]: 	Mark as read failed: Mark messages as read error: 
+2025-10-04 13:25:21 [[31merror[39m]: 	Add member error: AppError is not defined
+2025-10-04 13:25:21 [[31merror[39m]: 	Add group member failed: AppError is not defined
+2025-10-04 13:26:17 [[31merror[39m]: 	Add member error: AppError is not defined
+2025-10-04 13:26:17 [[31merror[39m]: 	Add group member failed: AppError is not defined
+2025-10-04 13:29:28 [[31merror[39m]: 	Add member error: AppError is not defined
+2025-10-04 13:29:28 [[31merror[39m]: 	Add group member failed: AppError is not defined
+2025-10-05 13:49:58 [[31merror[39m]: 	Update user error: Validation failed: username: Username is required
+2025-10-05 13:49:58 [[31merror[39m]: 	Update profile failed: Validation failed: username: Username is required
+2025-10-05 13:50:02 [[31merror[39m]: 	Update user error: Validation failed: username: Username is required
+2025-10-05 13:50:02 [[31merror[39m]: 	Update profile failed: Validation failed: username: Username is required
+2025-10-05 14:01:30 [[31merror[39m]: 	Update user error: Validation failed: username: Username is required
+2025-10-05 14:01:30 [[31merror[39m]: 	Update profile failed: Validation failed: username: Username is required
+2025-10-05 14:26:04 [[31merror[39m]: 	Server error: PayloadTooLargeError: request entity too large
+    at readStream (C:\Users\User\..Github\RealTalk\server\node_modules\raw-body\index.js:163:17)
+    at getRawBody (C:\Users\User\..Github\RealTalk\server\node_modules\raw-body\index.js:116:12)
+    at read (C:\Users\User\..Github\RealTalk\server\node_modules\body-parser\lib\read.js:79:3)
+    at jsonParser (C:\Users\User\..Github\RealTalk\server\node_modules\body-parser\lib\types\json.js:138:5)
+    at Layer.handle [as handle_request] (C:\Users\User\..Github\RealTalk\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\..Github\RealTalk\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\User\..Github\RealTalk\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\User\..Github\RealTalk\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\User\..Github\RealTalk\server\node_modules\express\lib\router\index.js:280:10)
+    at internalNext (file:///C:/Users/User/..Github/RealTalk/server/node_modules/helmet/index.mjs:533:6)
+2025-10-05 21:07:49 [[31merror[39m]: 	Server error: PayloadTooLargeError: request entity too large
+    at readStream (C:\Users\User\..Github\RealTalk\server\node_modules\raw-body\index.js:163:17)
+    at getRawBody (C:\Users\User\..Github\RealTalk\server\node_modules\raw-body\index.js:116:12)
+    at read (C:\Users\User\..Github\RealTalk\server\node_modules\body-parser\lib\read.js:79:3)
+    at jsonParser (C:\Users\User\..Github\RealTalk\server\node_modules\body-parser\lib\types\json.js:138:5)
+    at Layer.handle [as handle_request] (C:\Users\User\..Github\RealTalk\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\..Github\RealTalk\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\User\..Github\RealTalk\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\User\..Github\RealTalk\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\User\..Github\RealTalk\server\node_modules\express\lib\router\index.js:280:10)
+    at internalNext (file:///C:/Users/User/..Github/RealTalk/server/node_modules/helmet/index.mjs:533:6)
+2025-10-05 22:31:38 [[31merror[39m]: 	Update user error: ENOENT: no such file or directory, rename 'C:\Users\User\..Github\RealTalk\server\uploads\1759689098525-990850596.png' -> 'C:\Users\User\..Github\RealTalk\server\public\img\users\1759689098525-990850596.png'
+2025-10-05 22:31:38 [[31merror[39m]: 	Update profile failed: ENOENT: no such file or directory, rename 'C:\Users\User\..Github\RealTalk\server\uploads\1759689098525-990850596.png' -> 'C:\Users\User\..Github\RealTalk\server\public\img\users\1759689098525-990850596.png'
+2025-10-05 22:41:06 [[31merror[39m]: 	Update user error: ENOENT: no such file or directory, rename 'C:\Users\User\..Github\RealTalk\server\server\uploads\1759689666514-691461759.png' -> 'C:\Users\User\..Github\RealTalk\server\public\img\users\1759689666514-691461759.png'
+2025-10-05 22:41:06 [[31merror[39m]: 	Update profile failed: ENOENT: no such file or directory, rename 'C:\Users\User\..Github\RealTalk\server\server\uploads\1759689666514-691461759.png' -> 'C:\Users\User\..Github\RealTalk\server\public\img\users\1759689666514-691461759.png'
+2025-10-05 22:49:44 [[31merror[39m]: 	Update user error: ENOENT: no such file or directory, rename 'C:\Users\User\..Github\RealTalk\server\server\uploads\1759690184811-416668164.png' -> 'C:\Users\User\..Github\RealTalk\server\public\img\users\1759690184811-416668164.png'
+2025-10-05 22:49:44 [[31merror[39m]: 	Update profile failed: ENOENT: no such file or directory, rename 'C:\Users\User\..Github\RealTalk\server\server\uploads\1759690184811-416668164.png' -> 'C:\Users\User\..Github\RealTalk\server\public\img\users\1759690184811-416668164.png'
+2025-10-05 22:57:47 [[31merror[39m]: 	Update user error: The "path" argument must be of type string. Received an instance of ObjectId
+2025-10-05 22:57:47 [[31merror[39m]: 	Update profile failed: The "path" argument must be of type string. Received an instance of ObjectId
+2025-10-08 11:10:03 [[31merror[39m]: 	Update profile failed: Cannot read properties of undefined (reading '_id')
+2025-10-08 11:11:02 [[31merror[39m]: 	Update profile failed: Cannot read properties of undefined (reading '_id')
+2025-10-08 11:22:10 [[31merror[39m]: 	Update profile failed: Cannot read properties of undefined (reading '_id')
+2025-10-08 11:22:39 [[31merror[39m]: 	Update profile failed: Cannot read properties of undefined (reading '_id')
+2025-10-08 11:29:59 [[31merror[39m]: 	Update profile failed: Cannot read properties of undefined (reading '_id')
+2025-10-08 11:32:38 [[31merror[39m]: 	Update profile failed: Cannot read properties of undefined (reading '_id')
+2025-10-09 18:14:44 [[31merror[39m]: 	Update user error: Validation failed: username: Username is required
+2025-10-09 18:14:44 [[31merror[39m]: 	Update profile failed: Validation failed: username: Username is required
+2025-10-09 19:20:47 [[31merror[39m]: 	Update user error: Validation failed: username: Username must be at least 3 characters
+2025-10-09 19:20:47 [[31merror[39m]: 	Update profile failed: Validation failed: username: Username must be at least 3 characters
+2025-10-18 04:39:13 [[31merror[39m]: 	Typing start error: findOrCreatePrivateChat is not defined
+2025-10-18 04:39:13 [[31merror[39m]: 	Typing start error: findOrCreatePrivateChat is not defined
+2025-10-18 04:39:14 [[31merror[39m]: 	Typing start error: findOrCreatePrivateChat is not defined
+2025-10-18 04:39:14 [[31merror[39m]: 	Typing start error: findOrCreatePrivateChat is not defined
+2025-10-18 04:39:15 [[31merror[39m]: 	Typing start error: findOrCreatePrivateChat is not defined
+2025-10-18 04:39:15 [[31merror[39m]: 	Typing start error: findOrCreatePrivateChat is not defined
+2025-10-18 04:39:15 [[31merror[39m]: 	Typing start error: findOrCreatePrivateChat is not defined
+2025-10-18 04:39:15 [[31merror[39m]: 	Typing start error: findOrCreatePrivateChat is not defined
+2025-10-18 04:39:32 [[31merror[39m]: 	Typing start error: findOrCreatePrivateChat is not defined
+2025-10-18 04:39:33 [[31merror[39m]: 	Typing start error: findOrCreatePrivateChat is not defined
+2025-10-18 04:39:33 [[31merror[39m]: 	Typing start error: findOrCreatePrivateChat is not defined
+2025-10-18 04:39:34 [[31merror[39m]: 	Typing start error: findOrCreatePrivateChat is not defined
