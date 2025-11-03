@@ -27,8 +27,7 @@
 ### **📱 Multi-Platform Support**
 ```javascript
 // Responsive Design
-- Desktop-optimized interface (Desktop.html)
-- Mobile-first responsive design (Mobile.html)
+- Mobile-test (ForMobileTest.html)
 - Progressive Web App (PWA) ready
 ```
 
