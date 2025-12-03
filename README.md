@@ -209,7 +209,7 @@ This project represents the evolution from a simple chat application to an enter
 This project is a masterclass in modern web technologies and software architecture. We welcome your contributions!
 
 **Developer:** Ravan Asgarov
-**Portfolio:** [portfolio-omega-five-50.vercel.app](https://portfolio-omega-five-50.vercel.app/)
+**Portfolio:** [portfolio-gamma-neon-92.vercel.app](https://portfolio-gamma-neon-92.vercel.app/)
 
 ---
 
