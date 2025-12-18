@@ -10,17 +10,6 @@ jobs:
   test-backend:
     runs-on: ubuntu-latest
     
-    services:
-      mongodb:
-        image: mongo:latest
-        ports:
-          - 27017:27017
-        options: >-
-          --health-cmd mongo
-          --health-interval 10s
-          --health-timeout 5s
-          --health-retries 5
-    
     steps:
     - name: Checkout code
       uses: actions/checkout@v3
@@ -40,8 +29,8 @@ jobs:
       working-directory: ./server
       env:
         NODE_ENV: test
-        MONGODB_URI: mongodb://localhost:27017/realtalk-test
-        JWT_SECRET: test-jwt-secret-for-ci
+        MONGODB_URI: ${{ secrets.MONGODB_URI_TEST }}
+        JWT_SECRET: ${{ secrets.JWT_SECRET }}
         EMAIL_USER: ${{ secrets.EMAIL_USER }}
         EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
       run: npm test
